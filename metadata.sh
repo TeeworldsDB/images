@@ -1,15 +1,9 @@
 #!/bin/bash
 is_debug=1
+is_warning=1
 
 dst_file=readme.txt
 tmp_file=tmp_readme.txt
-
-function delete_cache() {
-    if [ -f "$tmp_file" ]
-    then
-        rm "$tmp_file"
-    fi
-}
 
 # used for bash4 hashmaps
 if [[ "${BASH_VERSION::1}" -lt "4" ]] || [[ "${BASH_VERSION::1}" == "" ]]
@@ -19,12 +13,32 @@ then
     exit 1
 fi
 
+if ! [ -x "$(command -v sha1sum)" ];
+then
+    echo 'Error: sha1sum is not installed.' >&2
+    exit 1
+fi
+
 function dbg() {
     if [ "$is_debug" -eq 0 ]
     then
         return
     fi
     echo "[*] $1"
+}
+function wrn() {
+    if [ "$is_warning" -eq 0 ]
+    then
+        return
+    fi
+    echo "[!] $1"
+}
+
+function delete_cache() {
+    if [ -f "$tmp_file" ]
+    then
+        rm "$tmp_file"
+    fi
 }
 
 if [ "$#" -ne "1" ]
@@ -60,25 +74,36 @@ function add_image() {
     local author="$2"
     local notes="$3"
     local tags="$4"
+    local old_sha1="$5"
     path="${path:2}"
+    old_sha1="$(echo "${old_sha1#*:}" | xargs)"
     author="$(echo "${author#*:}" | xargs)"
     notes="$(echo "${notes#*:}" | xargs)"
     tags="$(echo "${tags#*:}" | xargs)"
+    new_sha1="$(sha1sum "$path" | cut -d ' ' -f1)"
+    if [ "$old_sha1" != "$new_sha1" ]
+    then
+        wrn "WARNING sha1 missmatch '$path'"
+        wrn "'$old_sha1' -> '$new_sha1'"
+    fi
     dbg "Adding image '$path' ..."
     dbg " author: $author"
     dbg " notes: $notes"
     dbg " tags: $tags"
+    dbg " sha1: $old_sha1"
     read -d '' credit << EOF
 - $path
     author: $author
     notes: $notes
     tags: $tags
+    sha1: $new_sha1
 EOF
     file_images["$path"]="$credit"
 }
 
 i=0
 file_path=INVALID
+sha1=INVALID
 author=INVALID
 notes=INVALID
 tags=INVALID
@@ -93,6 +118,8 @@ do
         notes="$l"
     elif [ "$i" -eq 4 ]; then
         tags="$l"
+    elif [ "$i" -eq 5 ]; then
+        sha1="$l"
         i=0
         found=0
         while IFS= read -r -d '' f
@@ -109,10 +136,10 @@ do
             -name "*.png" \) -print0)
         if [ "$found" -eq 0 ]
         then
-            dbg "WARNING delete image only exisiting in readme:"
-            dbg "$file_path"
+            wrn "WARNING delete image only exisiting in readme:"
+            wrn "$file_path"
         else
-            add_image "$file_path" "$author" "$notes" "$tags"
+            add_image "$file_path" "$author" "$notes" "$tags" "$sha1"
         fi
     fi
 done < readme.txt
@@ -140,6 +167,7 @@ do
         echo "  author:" >> "$tmp_file"
         echo "  notes:" >> "$tmp_file"
         echo "  tags:" >> "$tmp_file"
+        echo "  sha1: $(sha1sum "$img" | cut -d ' ' -f1)" >> "$tmp_file"
     fi
 done
 
