@@ -75,11 +75,14 @@ function add_image() {
     local notes="$3"
     local tags="$4"
     local old_sha1="$5"
-    path="${path:2}"
     old_sha1="$(echo "${old_sha1#*:}" | xargs)"
+    path="${path:2}"
     author="$(echo "${author#*:}" | xargs)"
     notes="$(echo "${notes#*:}" | xargs)"
     tags="$(echo "${tags#*:}" | xargs)"
+    if [ "$author" != "" ]; then author=" $author"; fi
+    if [ "$notes" != "" ]; then notes=" $notes"; fi
+    if [ "$tags" != "" ]; then tags=" $tags"; fi
     new_sha1="$(sha1sum "$path" | cut -d ' ' -f1)"
     if [ "$old_sha1" != "$new_sha1" ]
     then
@@ -87,15 +90,15 @@ function add_image() {
         wrn "'$old_sha1' -> '$new_sha1'"
     fi
     dbg "Adding image '$path' ..."
-    dbg " author: $author"
-    dbg " notes: $notes"
-    dbg " tags: $tags"
-    dbg " sha1: $old_sha1"
+    dbg " author = '$author'"
+    dbg " notes  = '$notes'"
+    dbg " tags   = '$tags'"
+    dbg " sha1   = '$old_sha1'"
     read -d '' credit << EOF
 - $path
-    author: $author
-    notes: $notes
-    tags: $tags
+    author:$author
+    notes:$notes
+    tags:$tags
     sha1: $new_sha1
 EOF
     file_images["$path"]="$credit"
@@ -164,10 +167,10 @@ do
     else
         dbg "'$img' is in not list"
         echo "- $img" >> "$tmp_file"
-        echo "  author:" >> "$tmp_file"
-        echo "  notes:" >> "$tmp_file"
-        echo "  tags:" >> "$tmp_file"
-        echo "  sha1: $(sha1sum "$img" | cut -d ' ' -f1)" >> "$tmp_file"
+        echo "    author:" >> "$tmp_file"
+        echo "    notes:" >> "$tmp_file"
+        echo "    tags:" >> "$tmp_file"
+        echo "    sha1: $(sha1sum "$img" | cut -d ' ' -f1)" >> "$tmp_file"
     fi
 done
 
