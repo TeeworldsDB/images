@@ -7,7 +7,7 @@
     author: ChillerDragon
     notes: colors: fruit #ef7043ff bush #8fb45bff
     tags: doodads, grass, grass_doodads, green, nature
-    sha1: 57c9237595e5c9f9dc8607b672f560c303ce1f56
+    sha1: 7d4eb36fe102cbf0790ca20af1a70a69dc91a928
 - transparent/doodads/grass.svg
     author: ChillerDragon
     notes: color #81a055
