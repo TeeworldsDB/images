@@ -13,3 +13,13 @@
     notes: color #81a055
     tags: doodads, grass, grass_doodads, green, nature
     sha1: c9fe3a3596704539d6eefebc38915ddcdbee49ad
+- transparent/doodads/tree_curved.svg
+    author: ChillerDragon
+    notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
+    tags: doodads, grass, grass_doodads, green, nature
+    sha1: f48cd6bc35acd22ca53824ce14be643e26fd47b4
+- transparent/doodads/tree_simple.svg
+    author: ChillerDragon
+    notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
+    tags: doodads, grass, grass_doodads, green, nature
+    sha1: 5880b4473869e247f264bddfe40e4471afb0b14e
