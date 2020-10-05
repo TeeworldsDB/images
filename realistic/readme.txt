@@ -8,6 +8,11 @@
     notes: colors: fruit #ef7043ff bush #8fb45bff
     tags: doodads, grass, grass_doodads, green, nature
     sha1: 7d4eb36fe102cbf0790ca20af1a70a69dc91a928
+- transparent/doodads/fence.svg
+    author: ChillerDragon
+    notes: wood dark: #87602fff wood light: #ac7a3dff
+    tags: doodads, grass_doodads, nature, wood, structure
+    sha1: 261f328706631dfae611366b2a8e6a5a92fccfbf
 - transparent/doodads/grass.svg
     author: ChillerDragon
     notes: color #81a055
