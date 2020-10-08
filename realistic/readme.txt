@@ -43,6 +43,11 @@
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
     tags: doodads, grass, grass_doodads, green, nature
     sha1: 5880b4473869e247f264bddfe40e4471afb0b14e
+- transparent/doodads/tree_stump.svg
+    author: ChillerDragon
+    notes: wood: #87602f light wood: #d6c3a4ff
+    tags: doodads, grass, grass_doodads, wood, nature
+    sha1: 40e6d576ebf8359ca24b3f20cb4598b881a36b04
 - transparent/tiles/dirt_border_bottom.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
