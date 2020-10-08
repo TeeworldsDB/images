@@ -52,4 +52,4 @@
     author: ChilelrDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
     tags: tile, grass, grass_main, green, nature
-    sha1: c98ec5de9775a13fa5955db6b0b1798c66c202d5
+    sha1: 9129227f6783a5fb8fcee761a5f273caffd3d38b
