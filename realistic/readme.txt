@@ -23,6 +23,11 @@
     notes:
     tags: doodads, grass_doodads, building, structure
     sha1: c6a887fafe6135ec158905f3b8fc75047a9f974c
+- transparent/doodads/stalagtite1.svg
+    author: ChillerDragon
+    notes: color #919191ff
+    tags: doodads, cave, grass_doodads, nature, rock, stone
+    sha1: ae349f785a99028fa96069d8d7740db03a92fd4f
 - transparent/doodads/tree_curved.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
