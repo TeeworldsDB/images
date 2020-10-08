@@ -43,6 +43,11 @@
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
     tags: doodads, grass, grass_doodads, green, nature
     sha1: 5880b4473869e247f264bddfe40e4471afb0b14e
+- transparent/tiles/dirt.svg
+    author: ChillerDragon
+    notes: dirt: #a16e36ff dark dirt: #835a26fb
+    tags: tile, grass, grass_main, nature, cave
+    sha1: 52d43246270b049545235fce98baae1d06621231
 - transparent/tiles/grass.svg
     author: ChilelrDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
