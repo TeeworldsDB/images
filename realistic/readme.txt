@@ -23,6 +23,11 @@
     notes: color #81a055 (second/middle row in the tileset)
     tags: doodads, grass, grass_doodads, green, nature
     sha1: ccfef869fa61d436c622f70f431d6b301172ca18
+- transparent/doodads/grass3.svg
+    author: ChillerDragon
+    notes: color #81a055 (third/bottom row in the tileset)
+    tags: doodads, grass, grass_doodads, green, nature
+    sha1: e8ac1cf904c91ee6f112d285a8425e86640e2472
 - transparent/doodads/house.svg
     author: ChillerDragon
     notes:
