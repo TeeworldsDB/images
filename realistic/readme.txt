@@ -43,6 +43,11 @@
     notes: color #919191ff (the right stalagtite in the tileset)
     tags: doodads, cave, grass_doodads, nature, rock, stone
     sha1: e00d145f273e4c25f46c8348384a3e289174b4f5
+- transparent/doodads/stone_big.svg
+    author: ChillerDragon
+    notes: color: #e3e5e7 shadow light: #00000032 shadow dark: #00000064
+    tags: doodads, stones, grass_doodads, nature, rock, stone
+    sha1: 952f05de0c07d84c511f104a8a1fcbad50955714
 - transparent/doodads/tree_curved.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
