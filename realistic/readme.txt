@@ -13,11 +13,11 @@
     notes: wood dark: #87602fff wood light: #ac7a3dff
     tags: doodads, grass_doodads, nature, wood, structure
     sha1: e2d6c749027d7d9d2cc737e787a6fc5c6d580ea1
-- transparent/doodads/grass.svg
+- transparent/doodads/grass2.svg
     author: ChillerDragon
-    notes: color #81a055
+    notes: color #81a055 (second/middle row in the tileset)
     tags: doodads, grass, grass_doodads, green, nature
-    sha1: c4e1dd14afa7c789b7290f0a1598dad687ab0fc4
+    sha1: ccfef869fa61d436c622f70f431d6b301172ca18
 - transparent/doodads/house.svg
     author: ChillerDragon
     notes:
