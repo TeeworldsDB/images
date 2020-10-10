@@ -58,6 +58,11 @@
     notes: dirt: #a16e36ff dark dirt: #835a26fb
     tags: tile, grass, grass_main, nature, cave
     sha1: 9129227f6783a5fb8fcee761a5f273caffd3d38b
+- transparent/tiles/grass_main/1_dirt.svg
+    author: ChillerDragon
+    notes: color: #a16e36ff
+    tags: tile, dirt, grass_main, green, nature
+    sha1: d6f11c6843a0d2d73aa6fd5ed0dafada42a1a54a
 - transparent/tiles/grass_main/52_dirt_border_bottom.svg
     author: ChilelrDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
