@@ -22,7 +22,7 @@
     author: ChillerDragon
     notes:
     tags: doodads, grass_doodads, building, structure
-    sha1: a533c875aec859e9d7de5af6d30e555640d04c4b
+    sha1: 6ef1de9c45cd4c8e83baca3880b880a794036f5d
 - transparent/doodads/stalagtite1.svg
     author: ChillerDragon
     notes: color #919191ff
@@ -32,7 +32,7 @@
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
     tags: doodads, grass, grass_doodads, green, nature
-    sha1: 09d546052e75ee78e3ebe777c3edfffb5bbc4f64
+    sha1: e230b36dcbc85eb48059513dafb3956ae7ac45df
 - transparent/doodads/tree_forked.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
