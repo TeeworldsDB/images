@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1042.1309"
-   height="1070.9951"
-   viewBox="0 0 1042.1309 1070.9951"
+   width="320"
+   height="320"
+   viewBox="0 0 320 320"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="house.svg"
@@ -20,9 +20,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="888.12612"
-     inkscape:cy="586.89863"
+     inkscape:zoom="2.0797157"
+     inkscape:cx="202.43151"
+     inkscape:cy="147.61633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,10 +36,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.71737804,-9.005836)">
+     transform="translate(-0.71738802,-9.0058562)">
     <g
        id="g1544"
-       transform="matrix(3.7531276,0,0,3.7531276,-741.44577,-2362.373)">
+       transform="matrix(1.0996835,0,0,1.0996835,-208.32822,-679.62542)">
       <g
          id="g1322"
          transform="translate(-26.883782,-3.1650624)">
