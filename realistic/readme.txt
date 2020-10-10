@@ -48,6 +48,21 @@
     notes: color: #e3e5e7 shadow light: #00000032 shadow dark: #00000064
     tags: doodads, stones, grass_doodads, nature, rock, stone
     sha1: 952f05de0c07d84c511f104a8a1fcbad50955714
+- transparent/doodads/stone_double_small.svg
+    author: ChillerDragon
+    notes: color: #e3e5e7 shadow light: #00000032 shadow dark: #00000064
+    tags: doodads, stones, grass_doodads, nature, rock, stone
+    sha1: 68e0fe65e9b3f6da55598e5b634bd0cb6d2fc8b6
+- transparent/doodads/stone_flat.svg
+    author: ChillerDragon
+    notes: color: #e3e5e7 shadow light: #00000032 shadow dark: #00000064
+    tags: doodads, stones, grass_doodads, nature, rock, stone
+    sha1: 91958ce8b383bb6eca8f00516a344b5d271133d0
+- transparent/doodads/stone_small.svg
+    author: ChillerDragon
+    notes: color: #e3e5e7 shadow light: #00000032 shadow dark: #00000064
+    tags: doodads, stones, grass_doodads, nature, rock, stone
+    sha1: 895f4e1c16d5057ae8f8ef95bc323827842d8f69
 - transparent/doodads/tree_curved.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
