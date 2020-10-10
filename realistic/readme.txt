@@ -27,7 +27,7 @@
     author: ChillerDragon
     notes: color #919191ff
     tags: doodads, cave, grass_doodads, nature, rock, stone
-    sha1: e0405f07ea7ddab3604a8bbb147f16d96790fb14
+    sha1: 55d7667b91bb4ed1f0fe167fa8a793ec64dfa15d
 - transparent/doodads/tree_curved.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
