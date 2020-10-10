@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1920px"
-   height="1080px"
-   viewBox="0 0 1920 1080"
+   width="1010.6218"
+   height="1051.1456"
+   viewBox="0 0 1010.6218 1051.1456"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="tree_curved.svg"
-   inkscape:version="1.1-dev (3cce3c2d6a, 2020-09-19)"
+   inkscape:version="1.1-dev (cef4a25b16, 2020-10-10)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,29 +20,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="850.5"
-     inkscape:cy="609.5"
+     inkscape:zoom="0.5"
+     inkscape:cx="136"
+     inkscape:cy="690"
      inkscape:document-units="px"
-     inkscape:current-layer="g1561"
+     inkscape:current-layer="g1584"
      showgrid="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-482.10087,-12.570491)">
     <g
        id="g1584"
        transform="matrix(3.2525618,0,0,3.2525618,-2980.6244,-1363.9108)">
       <g
-         id="g1561">
+         id="g1561" />
+      <g
+         id="g63">
         <g
            id="g1345"
-           transform="translate(-74.209259,4.3738098)">
+           transform="translate(-74.209259,4.3738139)">
           <path
              id="path1204"
              style="fill:#87602f;fill-opacity:0.996078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -61,7 +64,7 @@
         </g>
         <g
            id="g1484"
-           transform="translate(-303.83946,10.29029)">
+           transform="translate(-303.83945,10.290289)">
           <path
              id="path1347"
              style="fill:#8fb45b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.901877;stroke-miterlimit:4;stroke-dasharray:none"
@@ -125,32 +128,32 @@
              d="m 1432.9996,476.32788 c 0.1715,1.22189 0.2596,2.45566 0.2636,3.69141 -0.038,3.72651 -0.8401,7.398 -2.3496,10.75195 3.4032,-3.50079 10.8466,-4.93108 15.8599,-5.57798 -4.4186,-1.31163 -11.109,-4.98259 -13.7739,-8.86538 z"
              sodipodi:nodetypes="ccccc" />
         </g>
-      </g>
-      <g
-         id="g1544"
-         transform="translate(-138.22671,1.0387681)">
-        <path
-           id="path1486"
-           style="fill:#8fb45b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.15248;stroke-miterlimit:4;stroke-dasharray:none"
-           d="m 1469.0707,520.15015 a 32.89048,32.237514 0 0 0 -32.8906,32.23828 32.89048,32.237514 0 0 0 32.8906,32.23633 32.89048,32.237514 0 0 0 22.2129,-8.53516 16.59923,16.744003 0 0 0 5.6738,1.06641 16.59923,16.744003 0 0 0 16.5996,-16.74219 16.59923,16.744003 0 0 0 -10.4101,-15.52734 13.509576,13.342427 0 0 0 1.3476,-5.80469 13.509576,13.342427 0 0 0 -13.5078,-13.34375 13.509576,13.342427 0 0 0 -3.0254,0.3418 32.89048,32.237514 0 0 0 -18.8906,-5.92969 z" />
-        <path
-           id="path1486-0"
-           style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1.15248;stroke-miterlimit:4;stroke-dasharray:none"
-           d="m 1504.7543,545.73218 a 29.986395,26.786339 0 0 1 -16.5117,4.43359 29.986395,26.786339 0 0 1 -5.25,-0.44726 38.996803,34.787937 0 0 1 -32.6191,15.73242 38.996803,34.787937 0 0 1 -12.0137,-1.75195 32.89048,32.237514 0 0 0 30.7109,20.92578 32.89048,32.237514 0 0 0 22.2129,-8.53516 16.59923,16.744003 0 0 0 5.6739,1.06641 16.59923,16.744003 0 0 0 16.5996,-16.74219 16.59923,16.744003 0 0 0 -8.8028,-14.68164 z" />
-        <ellipse
-           style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1536"
-           cx="1456.8082"
-           cy="539.88068"
-           rx="4.1288319"
-           ry="4.4379649" />
-        <ellipse
-           style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1538"
-           cx="1486.5719"
-           cy="539.65228"
-           rx="2.0768025"
-           ry="2.3454957" />
+        <g
+           id="g1544"
+           transform="translate(-138.22671,1.0387681)">
+          <path
+             id="path1486"
+             style="fill:#8fb45b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.15248;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 1469.0707,520.15015 a 32.89048,32.237514 0 0 0 -32.8906,32.23828 32.89048,32.237514 0 0 0 32.8906,32.23633 32.89048,32.237514 0 0 0 22.2129,-8.53516 16.59923,16.744003 0 0 0 5.6738,1.06641 16.59923,16.744003 0 0 0 16.5996,-16.74219 16.59923,16.744003 0 0 0 -10.4101,-15.52734 13.509576,13.342427 0 0 0 1.3476,-5.80469 13.509576,13.342427 0 0 0 -13.5078,-13.34375 13.509576,13.342427 0 0 0 -3.0254,0.3418 32.89048,32.237514 0 0 0 -18.8906,-5.92969 z" />
+          <path
+             id="path1486-0"
+             style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1.15248;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 1504.7543,545.73218 a 29.986395,26.786339 0 0 1 -16.5117,4.43359 29.986395,26.786339 0 0 1 -5.25,-0.44726 38.996803,34.787937 0 0 1 -32.6191,15.73242 38.996803,34.787937 0 0 1 -12.0137,-1.75195 32.89048,32.237514 0 0 0 30.7109,20.92578 32.89048,32.237514 0 0 0 22.2129,-8.53516 16.59923,16.744003 0 0 0 5.6739,1.06641 16.59923,16.744003 0 0 0 16.5996,-16.74219 16.59923,16.744003 0 0 0 -8.8028,-14.68164 z" />
+          <ellipse
+             style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path1536"
+             cx="1456.8082"
+             cy="539.88068"
+             rx="4.1288319"
+             ry="4.4379649" />
+          <ellipse
+             style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path1538"
+             cx="1486.5719"
+             cy="539.65228"
+             rx="2.0768025"
+             ry="2.3454957" />
+        </g>
       </g>
     </g>
   </g>

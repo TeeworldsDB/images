@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1920px"
-   height="1080px"
-   viewBox="0 0 1920 1080"
+   width="1708.2812"
+   height="731.37787"
+   viewBox="0 0 1708.2812 731.37787"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="bush_small.svg"
-   inkscape:version="1.1-dev (3cce3c2d6a, 2020-09-19)"
+   inkscape:version="1.1-dev (cef4a25b16, 2020-10-10)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="1270.2668"
-     inkscape:cy="525.7844"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1274.8125"
+     inkscape:cy="454.56865"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata863">
@@ -49,7 +49,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-102.4498,-121.1143)">
     <g
        id="g1514"
        transform="translate(-103.66438,799.77679)" />
@@ -150,7 +151,7 @@
       <path
          id="path1163"
          style="fill:#000000;fill-opacity:0.109804;fill-rule:evenodd;stroke-width:26.3"
-         d="M 1469.3926 354.06836 A 408.01187 194.26416 0 0 1 1455.3867 361.11719 A 315.5173 213.02615 0 0 1 1481.3652 354.66211 A 354.07291 331.7811 0 0 0 1469.3926 354.06836 z M 992.42578 657.36328 A 385.73099 296.77087 0 0 1 682.41602 777.62109 A 385.73099 296.77087 0 0 1 375.22852 660.21484 A 223.29414 243.95294 0 0 1 198.34375 755.44531 A 223.29414 243.95294 0 0 1 103.89844 732.47852 A 235.25365 217.16652 0 0 0 102.45117 756.18555 A 235.25365 217.16652 0 0 0 126.88867 852.49219 L 1762.6797 852.49219 A 354.07291 331.7811 0 0 0 1804.2363 748.45898 A 341.23648 178.01035 0 0 1 1581.0527 791.81836 A 341.23648 178.01035 0 0 1 1252.8691 662.45898 A 236.33858 233.24055 0 0 1 1126.4941 698.69922 A 236.33858 233.24055 0 0 1 992.42578 657.36328 z " />
+         d="m 1469.3926,354.06836 a 408.01187,194.26416 0 0 1 -14.0059,7.04883 315.5173,213.02615 0 0 1 25.9785,-6.45508 354.07291,331.7811 0 0 0 -11.9726,-0.59375 z M 992.42578,657.36328 a 385.73099,296.77087 0 0 1 -310.00976,120.25781 385.73099,296.77087 0 0 1 -307.1875,-117.40625 223.29414,243.95294 0 0 1 -176.88477,95.23047 223.29414,243.95294 0 0 1 -94.44531,-22.96679 235.25365,217.16652 0 0 0 -1.44727,23.70703 235.25365,217.16652 0 0 0 24.4375,96.30664 H 1762.6797 a 354.07291,331.7811 0 0 0 41.5566,-104.03321 341.23648,178.01035 0 0 1 -223.1836,43.35938 341.23648,178.01035 0 0 1 -328.1836,-129.35938 236.33858,233.24055 0 0 1 -126.375,36.24024 236.33858,233.24055 0 0 1 -134.06832,-41.33594 z" />
     </g>
   </g>
 </svg>

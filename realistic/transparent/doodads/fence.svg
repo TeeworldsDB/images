@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1920px"
-   height="1080px"
-   viewBox="0 0 1920 1080"
+   width="1893.3796"
+   height="830.8006"
+   viewBox="0 0 1893.3796 830.8006"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="fence.svg"
-   inkscape:version="1.1-dev (3cce3c2d6a, 2020-09-19)"
+   inkscape:version="1.1-dev (cef4a25b16, 2020-10-10)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,22 +20,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1075.863"
-     inkscape:cy="764.02887"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="1549.978"
+     inkscape:cy="500.63159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="20" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-16.088948,-228.86378)">
     <g
        id="g1172"
        transform="matrix(10.938961,0,0,10.938961,-8828.7027,-6401.3041)">

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1920px"
-   height="1080px"
-   viewBox="0 0 1920 1080"
+   width="435.14188"
+   height="1072.0897"
+   viewBox="0 0 435.14188 1072.0897"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="stalagtite1.svg"
-   inkscape:version="1.1-dev (b27f5715b4, 2020-10-07)"
+   inkscape:version="1.1-dev (cef4a25b16, 2020-10-10)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,21 +20,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="713.67277"
-     inkscape:cy="397.49503"
+     inkscape:zoom="0.35"
+     inkscape:cx="205.71429"
+     inkscape:cy="302.85714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-728.78774,0.00463585)">
     <g
        id="g949"
        transform="matrix(5.3720888,0,0,5.3720888,-6505.0355,-3598.7009)">
