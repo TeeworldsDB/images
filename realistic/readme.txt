@@ -3,6 +3,11 @@
     notes: colors: fruit #ef7043ff bush #8fb45bff
     tags: doodads, grass, grass_doodads, green, nature
     sha1: 2e703040f82d43964ff74c6c78168964986ca57c
+- transparent/doodads/bush_medium.svg
+    author: ChillerDragon
+    notes: colors: fruit #ef7043ff bush #8fb45bff dark green dots: #768f50ff
+    tags: doodads, grass, grass_doodads, green, nature
+    sha1: cf90161a28add5f074bf4f10fcc43a2ccc24bc8c
 - transparent/doodads/bush_small1.svg
     author: ChillerDragon
     notes: colors: fruit #ef7043ff bush #8fb45bff
