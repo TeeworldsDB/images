@@ -92,7 +92,7 @@
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032
     tags: doodads, grass, grass_doodads, green, nature
-    sha1: 585423a27967e86116116364a1e1d5fb7c58264d
+    sha1: e8456d44cb5cd63889566fde9990e3edfd0e1355
 - transparent/doodads/tree_sideways.svg
     author: ChillerDragon
     notes: wood: #87602f leaves: #8fb45bff shadow layer: #00000032 dark green dots: #768f50ff
