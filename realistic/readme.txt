@@ -118,6 +118,11 @@
     notes:
     tags:
     sha1: 2d71eaa8ab2929bdfc2d8738357132b9da9798c0
+- transparent/tees/limekitty.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: c639866e274b45d08a71a7e0b8ee8a350ff75bd7
 - transparent/tees/pinky.svg
     author: ChillerDragon
     notes:
