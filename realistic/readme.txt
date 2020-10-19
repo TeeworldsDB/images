@@ -113,6 +113,11 @@
     notes: wood: #87602f light wood: #d6c3a4ff
     tags: doodads, grass, grass_doodads, wood, nature
     sha1: 11a341eaf715789202368842581b4af0c56195f4
+- transparent/tees/bluestripe.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 439a0c9893faca6900f39d85f22753f05c931006
 - transparent/tees/brownbear.svg
     author: ChillerDragon
     notes:
