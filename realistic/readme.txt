@@ -113,6 +113,11 @@
     notes: wood: #87602f light wood: #d6c3a4ff
     tags: doodads, grass, grass_doodads, wood, nature
     sha1: 11a341eaf715789202368842581b4af0c56195f4
+- transparent/tees/redbopp.svg
+    author: ChillerDragon
+    notes:
+    tags: vanilla, standard skins
+    sha1: f4d6d624d774d682cd745ea653dd3e8d8b0f513e
 - transparent/tiles/grass_main/16_grass_top.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
