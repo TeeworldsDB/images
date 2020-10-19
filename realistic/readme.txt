@@ -113,11 +113,26 @@
     notes: wood: #87602f light wood: #d6c3a4ff
     tags: doodads, grass, grass_doodads, wood, nature
     sha1: 11a341eaf715789202368842581b4af0c56195f4
+- transparent/tees/brownbear.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 2d71eaa8ab2929bdfc2d8738357132b9da9798c0
+- transparent/tees/pinky.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 7f482ad477084987ff4a972735e93ddcac109bfa
 - transparent/tees/redbopp.svg
     author: ChillerDragon
     notes:
     tags: vanilla, standard skins
     sha1: f4d6d624d774d682cd745ea653dd3e8d8b0f513e
+- transparent/tees/saddo.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 4d824b57fdd2f0a996f1eff6c386fde2c8ac0db2
 - transparent/tiles/grass_main/16_grass_top.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
