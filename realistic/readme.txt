@@ -118,6 +118,16 @@
     notes:
     tags:
     sha1: 2d71eaa8ab2929bdfc2d8738357132b9da9798c0
+- transparent/tees/greensward_red.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 5fccfc951dcf8a34e9de0829058cec0905a16ad2
+- transparent/tees/greensward.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: aa5b9639ed8843fddf3c0d38144fdf622bf5ae9e
 - transparent/tees/limekitty.svg
     author: ChillerDragon
     notes:
