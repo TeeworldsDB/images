@@ -158,6 +158,11 @@
     notes:
     tags:
     sha1: 4d824b57fdd2f0a996f1eff6c386fde2c8ac0db2
+- transparent/tees/toptri.svg
+    author: ChillerDragon
+    notes:
+    tags: vanilla, standard skins
+    sha1: 7afc48c3498089e4363a5c3d75a80690f934e8ce
 - transparent/tiles/grass_main/16_grass_top.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
