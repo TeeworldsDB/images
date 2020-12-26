@@ -141,12 +141,17 @@
 - transparent/tees/limekitty.svg
     author: ChillerDragon
     notes:
-    tags:
+    tags: vanilla, standard skins
     sha1: c639866e274b45d08a71a7e0b8ee8a350ff75bd7
+- transparent/tees/pento.svg
+    author: ChillerDragon
+    notes:
+    tags: vanilla, standard skins
+    sha1: 8074ec46c6d4d22b7819325dd02540e92813ffa2
 - transparent/tees/pinky.svg
     author: ChillerDragon
     notes:
-    tags:
+    tags: vanilla, standard skins
     sha1: 7f482ad477084987ff4a972735e93ddcac109bfa
 - transparent/tees/redbopp.svg
     author: ChillerDragon
@@ -156,7 +161,7 @@
 - transparent/tees/saddo.svg
     author: ChillerDragon
     notes:
-    tags:
+    tags: vanilla, standard skins
     sha1: 4d824b57fdd2f0a996f1eff6c386fde2c8ac0db2
 - transparent/tees/toptri.svg
     author: ChillerDragon
