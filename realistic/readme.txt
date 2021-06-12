@@ -128,6 +128,11 @@
     notes:
     tags: doodads, jungle, grass
     sha1: c61842152748c2fb0597b5793551e477ab6037f7
+- transparent/doodads/jungle_doodads/high_grass1.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: a9e50294d3b969e5a1033058e18c1d2e3f44712e
 - transparent/logos/teeworldsdb.svg
     author: Blade
     notes:
