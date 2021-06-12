@@ -118,6 +118,11 @@
     notes: dark grass: #478906 light grass: #509803
     tags: doodads, jungle, grass
     sha1: a68c56af0d9c8b9cd4dfcca52c11f4b89c0872b2
+- transparent/doodads/jungle_doodads/grass2.svg
+    author: ChillerDragon
+    notes: grass: #509803
+    tags: doodads, jungle, grass
+    sha1: 48846b827e7bfee89fb40e0e44900be60a202fd2
 - transparent/logos/teeworldsdb.svg
     author: Blade
     notes:
