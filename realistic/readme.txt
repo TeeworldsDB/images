@@ -184,7 +184,12 @@
     tags: tile, grass, grass_main
     sha1: 9ce2e030696228cd747bc00cb5e561c0121e7b25
 - transparent/tiles/grass_main/52_dirt_border_bottom.svg
-    author: ChilelrDragon
+    author: ChillerDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
     tags: tile, grass, grass_main, green, nature
     sha1: 52d43246270b049545235fce98baae1d06621231
+- transparent/tiles/jungle_doodads/grass1.svg
+    author: ChillerDragon
+    notes: dark grass: #478906 light grass: #509803
+    tags: doodads, jungle, grass
+    sha1: a68c56af0d9c8b9cd4dfcca52c11f4b89c0872b2
