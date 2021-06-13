@@ -16,3 +16,14 @@ jobs:
       run: git clone https://github.com/ddnet/ddnet-data-svg ../ddnet
     - name: Check metadata
       run: ../ddnet/scripts/check_svg_meta.sh
+  check-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Prepare
+      run: git clone https://github.com/TeeworldsDB/scripts ../scripts
+    - name: Check realistic
+      run: ../scripts/metadata.sh realistic/
+    - name: Check cartoon
+      run: ../scripts/metadata.sh cartoon/
