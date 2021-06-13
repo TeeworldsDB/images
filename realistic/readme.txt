@@ -118,6 +118,11 @@
     notes:
     tags: doodads, jungle, grass
     sha1: 44ed60c7d891d8bedb33c46e4699c1b44be32520
+- transparent/doodads/jungle_doodads/bush_sideways.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: 933d4ff1493d234f584477079724bc50817545a2
 - transparent/doodads/jungle_doodads/grass1.svg
     author: ChillerDragon
     notes: dark grass: #478906 light grass: #509803
