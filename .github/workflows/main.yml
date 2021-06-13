@@ -24,6 +24,6 @@ jobs:
     - name: Prepare
       run: git clone https://github.com/TeeworldsDB/scripts ../scripts
     - name: Check realistic
-      run: ../scripts/metadata.sh realistic/
+      run: ../scripts/metadata.sh realistic/ -Werror
     - name: Check cartoon
-      run: ../scripts/metadata.sh cartoon/
+      run: ../scripts/metadata.sh cartoon/ -Werror
