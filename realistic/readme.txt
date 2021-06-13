@@ -123,6 +123,11 @@
     notes:
     tags: doodads, jungle, grass
     sha1: 933d4ff1493d234f584477079724bc50817545a2
+- transparent/doodads/jungle_doodads/bush_small.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: d391b3dc3120d8f5b139644415cfedfdfb700d8d
 - transparent/doodads/jungle_doodads/bush.svg
     author: ChillerDragon
     notes:
