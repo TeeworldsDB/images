@@ -113,6 +113,11 @@
     notes: wood: #87602f light wood: #d6c3a4ff
     tags: doodads, grass, grass_doodads, wood, nature
     sha1: 11a341eaf715789202368842581b4af0c56195f4
+- transparent/doodads/jungle_doodads/big_bush.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: 44ed60c7d891d8bedb33c46e4699c1b44be32520
 - transparent/doodads/jungle_doodads/curley_grass1.svg
     author: ChillerDragon
     notes:
