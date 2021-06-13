@@ -113,26 +113,11 @@
     notes: wood: #87602f light wood: #d6c3a4ff
     tags: doodads, grass, grass_doodads, wood, nature
     sha1: 11a341eaf715789202368842581b4af0c56195f4
-- transparent/doodads/jungle_doodads/big_bush.svg
+- transparent/doodads/jungle_doodads/bush_big.svg
     author: ChillerDragon
     notes:
     tags: doodads, jungle, grass
     sha1: 44ed60c7d891d8bedb33c46e4699c1b44be32520
-- transparent/doodads/jungle_doodads/curley_grass1.svg
-    author: ChillerDragon
-    notes:
-    tags: doodads, jungle, grass
-    sha1: 568439739329388b30b989509173109f4e2057f1
-- transparent/doodads/jungle_doodads/curley_grass2.svg
-    author: ChillerDragon
-    notes:
-    tags: doodads, jungle, grass
-    sha1: 7792f7edeeacde4adf06144723d3314f57985170
-- transparent/doodads/jungle_doodads/curley_grass3.svg
-    author: ChillerDragon
-    notes:
-    tags: doodads, jungle, grass
-    sha1: e9138a1463fde3eb19481b14b0e17bf3e430a25a
 - transparent/doodads/jungle_doodads/grass1.svg
     author: ChillerDragon
     notes: dark grass: #478906 light grass: #509803
@@ -148,17 +133,32 @@
     notes:
     tags: doodads, jungle, grass
     sha1: c61842152748c2fb0597b5793551e477ab6037f7
-- transparent/doodads/jungle_doodads/high_grass1.svg
+- transparent/doodads/jungle_doodads/grass_curley1.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: 568439739329388b30b989509173109f4e2057f1
+- transparent/doodads/jungle_doodads/grass_curley2.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: 7792f7edeeacde4adf06144723d3314f57985170
+- transparent/doodads/jungle_doodads/grass_curley3.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass
+    sha1: e9138a1463fde3eb19481b14b0e17bf3e430a25a
+- transparent/doodads/jungle_doodads/grass_high1.svg
     author: ChillerDragon
     notes:
     tags: doodads, jungle, grass
     sha1: a9e50294d3b969e5a1033058e18c1d2e3f44712e
-- transparent/doodads/jungle_doodads/high_grass2.svg
+- transparent/doodads/jungle_doodads/grass_high2.svg
     author: ChillerDragon
     notes:
     tags: doodads, jungle, grass
     sha1: 261b96f4e324eb7aab3b3e4ec342241b9a40a7a5
-- transparent/doodads/jungle_doodads/high_grass3.svg
+- transparent/doodads/jungle_doodads/grass_high3.svg
     author: ChillerDragon
     notes:
     tags: doodads, jungle, grass
