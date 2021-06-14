@@ -138,6 +138,11 @@
     notes:
     tags: doodads, jungle, grass
     sha1: d52f44437f4899d34bcde1a19e48937333f7deb6
+- transparent/doodads/jungle_doodads/chest.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, money, coins, pirates
+    sha1: be62c88134647647adc44b59ab5e29b0df813f85
 - transparent/doodads/jungle_doodads/gold1.svg
     author: ChillerDragon
     notes:
