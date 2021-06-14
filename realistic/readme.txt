@@ -138,6 +138,26 @@
     notes:
     tags: doodads, jungle, grass
     sha1: d52f44437f4899d34bcde1a19e48937333f7deb6
+- transparent/doodads/jungle_doodads/gold1.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, money, coins, pirates
+    sha1: 9edaaabde9f1105b65a5268e207a63a962adc5a1
+- transparent/doodads/jungle_doodads/gold2.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, money, coins, pirates
+    sha1: 5f8bcf135b5ec7051e197ba5d633728221faf476
+- transparent/doodads/jungle_doodads/gold3.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, money, coins, pirates
+    sha1: 059de8de45bb9e4a320a0632690629e4c7bc2761
+- transparent/doodads/jungle_doodads/gold4.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, money, coins, pirates
+    sha1: b7a396b86c1674051cd189b922b6383e26b8861b
 - transparent/doodads/jungle_doodads/grass1.svg
     author: ChillerDragon
     notes: dark grass: #478906 light grass: #509803
