@@ -143,6 +143,11 @@
     notes:
     tags: doodads, jungle, money, coins, pirates
     sha1: be62c88134647647adc44b59ab5e29b0df813f85
+- transparent/doodads/jungle_doodads/crown.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, statue, stone, structure
+    sha1: 185eda7752cc6a06922cda767bc9baa4c80d4965
 - transparent/doodads/jungle_doodads/gold1.svg
     author: ChillerDragon
     notes:
@@ -208,6 +213,16 @@
     notes:
     tags: doodads, jungle, grass
     sha1: c0c76909f7e225b5758f093fe02bf66997a17ede
+- transparent/doodads/jungle_doodads/statue_owl.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, statue, stone, structure
+    sha1: 216b4aebb780cd4ee2e8bd2bca34def84a0e33ba
+- transparent/doodads/jungle_doodads/statue_tee.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, statue, stone, structure
+    sha1: 8b38004bf9ff8e66b31a45922c2fe4add36eaf7d
 - transparent/doodads/jungle_doodads/stone.svg
     author: ChillerDragon
     notes:
