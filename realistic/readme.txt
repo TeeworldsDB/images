@@ -213,6 +213,11 @@
     notes:
     tags: doodads, jungle, grass
     sha1: c0c76909f7e225b5758f093fe02bf66997a17ede
+- transparent/doodads/jungle_doodads/house.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, grass, building, structure
+    sha1: 8ceadb4bed1cec06f1a15224369715994d4237a7
 - transparent/doodads/jungle_doodads/statue_owl.svg
     author: ChillerDragon
     notes:
