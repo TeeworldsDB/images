@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="vine_single_straight.svg"
+   inkscape:version="1.2-dev (1d8154c6cf, 2021-12-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9f9f9f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="33.392857"
+     inkscape:cy="22.946429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2100"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0"
+     showguides="true"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       spacingx="64"
+       spacingy="64" />
+    <sodipodi:guide
+       position="56.000000,0.00000"
+       orientation="1,0"
+       id="guide533"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="46.000000,0.00000"
+       orientation="1,0"
+       id="guide535"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="44.000000,0.00000"
+       orientation="1,0"
+       id="guide537"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="34.000000,0.00000"
+       orientation="1,0"
+       id="guide539"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.411035,-321.7401)">
+    <g
+       id="g3330">
+      <path
+         style="fill:#47311c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 117.41103,321.7401 h 10 c -0.29853,12.17707 0.24344,23.65127 1.87804,34.21174 l -9.7973,0.98148 c -1.40162,-11.73107 -1.86867,-23.46215 -2.08074,-35.19322 z"
+         id="path798"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g3274">
+        <path
+           style="fill:#624426;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 129.41103,321.7401 h 10 c 0.0183,19.89562 1.10948,39.79124 2.80193,59.68686 l -9.67538,0.75125 c -1.61842,-20.24091 -2.78114,-40.40679 -3.12655,-60.43811 z"
+           id="path2117"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1410"
+           style="fill:#47311c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+           d="M 52.003906 0 C 52.077135 20.0039 53.078884 40.007818 54.626953 60.011719 L 58.802734 59.6875 C 57.110284 39.79188 56.0183 19.89562 56 0 L 52.003906 0 z "
+           transform="translate(83.411035,321.7401)" />
+      </g>
+    </g>
+  </g>
+</svg>
