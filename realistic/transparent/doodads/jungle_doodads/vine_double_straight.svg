@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="256"
+   viewBox="0 0 64 256"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="vine_double_straight.svg"
+   inkscape:version="1.2-dev (1d8154c6cf, 2021-12-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9f9f9f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-5.1785714"
+     inkscape:cy="149.46429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2100"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0"
+     showguides="true"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       spacingx="64"
+       spacingy="64" />
+    <sodipodi:guide
+       position="56.000000,0.00000"
+       orientation="1,0"
+       id="guide533"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="46.000000,0.00000"
+       orientation="1,0"
+       id="guide535"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="44.000000,0.00000"
+       orientation="1,0"
+       id="guide537"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="34.000000,0.00000"
+       orientation="1,0"
+       id="guide539"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.411035,-321.7401)">
+    <path
+       style="fill:#47311c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.41103,321.7401 h 10 v 64 c 0,9.80244 1.7631,39.55278 0,64 -1.0718,57.15128 9.06576,80.17228 15.26348,110.69215 l -9.86323,2.13259 c -7.85928,-32.84128 -15.7571,-60.84475 -15.40025,-112.82474 1.66674,-22.78567 0,-50.98383 0,-64 z"
+       id="path594"
+       sodipodi:nodetypes="ccsccccsc" />
+    <g
+       id="g6680">
+      <path
+         style="fill:#624426;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.33661,567.87057 9.04235,3.88002 c 4.37366,-12.7767 9.54223,-19.88816 13.12099,-38.33011 2.28469,-22.0079 -2.10663,-57.55469 -3.08892,-83.68038 v -64 -64 h -10 v 64 64 c 1.00827,14.75184 5.02765,58.89499 3.60868,81.10858 -0.1066,3.01444 -2.09627,10.29032 -12.6831,37.02189 z"
+         id="path5873"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         id="path3860"
+         style="fill:#47311c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52,0 v 64 64 c 0.98229,26.12569 5.374534,61.67179 3.089844,83.67969 -3.433309,17.69242 -8.324013,25.00509 -12.578125,36.84765 l 3.457031,1.48243 c 4.37366,-12.7767 9.542334,-19.88813 13.121094,-38.33008 C 61.374534,189.67179 56.98229,154.12569 56,128 V 64 0 Z"
+         transform="translate(83.411035,321.7401)" />
+    </g>
+  </g>
+</svg>

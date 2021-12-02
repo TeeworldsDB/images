@@ -238,6 +238,11 @@
     notes:
     tags: doodads, jungle, vine, vines
     sha1: 9aa2ce7f8dd3d29ea50bc993081e6c3a94d5ccc5
+- transparent/doodads/jungle_doodads/vine_double_straight.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, vine, vines
+    sha1: f570f9cbc818a987b99d9223f5f3fd97ed900792
 - transparent/doodads/jungle_doodads/vine_double.svg
     author: ChillerDragon
     notes:
