@@ -218,6 +218,16 @@
     notes:
     tags: doodads, jungle, grass, building, structure
     sha1: 8ceadb4bed1cec06f1a15224369715994d4237a7
+- transparent/doodads/jungle_doodads/statue_eye1.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, statue, stone, structure
+    sha1: 1b8fc85df73126479d4fe9a6faf5a82459db8ec4
+- transparent/doodads/jungle_doodads/statue_eye2.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, statue, stone, structure
+    sha1: 513b6ca243ff4eae4f67a6f577812baa6f4275ee
 - transparent/doodads/jungle_doodads/statue_owl.svg
     author: ChillerDragon
     notes:
