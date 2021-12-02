@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="128"
+   viewBox="0 0 192 128"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="vine_double.svg"
+   inkscape:version="1.2-dev (1d8154c6cf, 2021-12-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9f9f9f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="91.418805"
+     inkscape:cy="46.467017"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2100"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       spacingx="64"
+       spacingy="64" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.411035,-321.7401)">
+    <g
+       id="g13720">
+      <path
+         id="path5032"
+         style="fill:#47311c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.99215686"
+         d="M 5.4082031 0 C 9.4353498 10.765496 14.222839 21.772954 19.939453 32.037109 C 34.872963 58.850179 54.399497 82.139743 89.810547 82.783203 C 115.56381 83.251173 131.62978 65.752036 142.60547 49.978516 C 152.6045 35.608596 158.11538 17.784614 163.39844 0 L 153.68555 0 C 150.55703 13.023655 146.54967 25.237326 139.89648 34.798828 C 128.92079 50.572348 116.13412 72.596876 90.380859 72.128906 C 54.969809 71.485446 39.826088 46.236898 24.892578 19.423828 C 21.410373 13.171544 18.330464 6.6108425 15.501953 0 L 5.4082031 0 z "
+         transform="translate(83.411035,321.7401)" />
+      <g
+         id="g13714">
+        <path
+           id="path10562"
+           style="fill:#624426;fill-opacity:0.992157;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 27.503906,0 C 34.80056,41.15523 50.396051,126.33973 97.369141,125.54102 145.3859,124.72456 161.152,45.871169 172.46875,0 h -9.76563 C 155.84904,26.977464 147.81148,56.988793 137.85938,77.892578 127.90197,98.807498 117.66501,115.26244 99.332031,116.45508 61.733035,118.90106 46.038547,47.565752 38.035156,0 Z"
+           transform="translate(83.411035,321.7401)" />
+        <path
+           id="path649"
+           style="fill:#47311c;fill-opacity:0.992157;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 27.503906,0 C 34.80056,41.15523 50.396051,126.33973 97.369141,125.54102 145.3859,124.72456 161.152,45.871169 172.46875,0 h -3.98633 C 158.08637,47.065919 143.18841,119.95776 97.400391,120.73633 52.650984,121.49723 38.33734,43.354938 31.607422,0 Z"
+           transform="translate(83.411035,321.7401)" />
+      </g>
+    </g>
+  </g>
+</svg>
