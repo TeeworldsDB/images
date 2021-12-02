@@ -263,6 +263,16 @@
     notes:
     tags: doodads, jungle, vine, vines
     sha1: 1657741264d2949218f09014236806125dba8af1
+- transparent/doodads/jungle_doodads/vine_single_ending1.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, vine, vines
+    sha1: f7fb2c3023d1959c57d5979a662660688b40002a
+- transparent/doodads/jungle_doodads/vine_single_ending2.svg
+    author: ChillerDragon
+    notes:
+    tags: doodads, jungle, vine, vines
+    sha1: 6a5cbb03365d6ce907eb4907366d70081d22d267
 - transparent/doodads/jungle_doodads/vine_single.svg
     author: ChillerDragon
     notes:
