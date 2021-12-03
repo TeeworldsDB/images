@@ -217,7 +217,7 @@
     author: ChillerDragon
     notes:
     tags: doodads, jungle, grass, building, structure
-    sha1: 8ceadb4bed1cec06f1a15224369715994d4237a7
+    sha1: 4bb153db3abaad0cc8bad490ddf545390100f835
 - transparent/doodads/jungle_doodads/statue_eye1.svg
     author: ChillerDragon
     notes:
