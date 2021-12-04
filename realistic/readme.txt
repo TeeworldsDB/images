@@ -353,6 +353,16 @@
     notes: color: #a16e36ff
     tags: tile, dirt, grass_main, green, nature
     sha1: d6f11c6843a0d2d73aa6fd5ed0dafada42a1a54a
+- transparent/tiles/grass_main/20_dirt_left.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main
+    sha1: afcb753a166ac57b493b1aa46e717a5bc8945f28
+- transparent/tiles/grass_main/22_grass_to_dirt.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main
+    sha1: e90979470b077dc108941e7af3f41990c846e4c1
 - transparent/tiles/grass_main/2_dirt_bone_top.svg
     author: ChillerDragon
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
