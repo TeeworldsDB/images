@@ -358,6 +358,11 @@
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
     tags: tile, grass, grass_main
     sha1: 9ce2e030696228cd747bc00cb5e561c0121e7b25
+- transparent/tiles/grass_main/3_dirt_two_bones.svg
+    author: ChillerDragon
+    notes: bone: #d5c9b6ff bone border: #c2c2c2ff
+    tags: tile, grass, grass_main
+    sha1: c836ab35c151ef40255aa9e20b1375ede4fefd16
 - transparent/tiles/grass_main/52_dirt_border_bottom.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
