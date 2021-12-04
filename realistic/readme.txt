@@ -373,3 +373,8 @@
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
     tags: tile, grass, grass_main, green, nature
     sha1: 52d43246270b049545235fce98baae1d06621231
+- transparent/tiles/grass_main/5_grass_dirt_corner_right.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main, green, nature
+    sha1: 21211849622e180edcbcd07f15e7d1c063add4b3
