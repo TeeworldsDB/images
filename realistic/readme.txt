@@ -388,6 +388,11 @@
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
     tags: tile, grass, grass_main
     sha1: c836ab35c151ef40255aa9e20b1375ede4fefd16
+- transparent/tiles/grass_main/48_grass_inner_corner_top_left.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main
+    sha1: a4eca97af5c9e1c59723cc99fb43abfe725b8644
 - transparent/tiles/grass_main/4_grass_dirt_corner_left.svg
     author: ChillerDragon
     notes:
