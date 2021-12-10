@@ -418,3 +418,18 @@
     notes:
     tags: tile, grass, grass_main, nature, bones
     sha1: aa366e272542a1d5cfa8cf5735fadecd159e0751
+- transparent/tiles/grass_main/66_bone.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main, nature, bones
+    sha1: 256cc485ef659a3efa95c141a7ae5f7720779461
+- transparent/tiles/grass_main/67_bone.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main, nature, bones
+    sha1: 6be4df6cf44f3d206e0fb0ccba45d6b27d098ec2
+- transparent/tiles/grass_main/68_bone.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main, nature, bones
+    sha1: 4716bc21673bb9cf881edfb6a42c2072c5003be6
