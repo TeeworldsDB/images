@@ -363,6 +363,11 @@
     notes:
     tags: tile, grass, grass_main
     sha1: e90979470b077dc108941e7af3f41990c846e4c1
+- transparent/tiles/grass_main/24_cave_left.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 34f6225af0e88b9f160d57cfb40f128ee021b535
 - transparent/tiles/grass_main/2_dirt_bone_top.svg
     author: ChillerDragon
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
@@ -433,3 +438,8 @@
     notes:
     tags: tile, grass, grass_main, nature, bones
     sha1: 4716bc21673bb9cf881edfb6a42c2072c5003be6
+- transparent/tiles/grass_main/8_cave_corner_top_left.svg
+    author: ChillerDragon
+    notes:
+    tags:
+    sha1: 817ca09bce8bed2cf69744b463c07872eb775c38
