@@ -413,3 +413,8 @@
     notes:
     tags: tile, grass, grass_main, green, nature
     sha1: 21211849622e180edcbcd07f15e7d1c063add4b3
+- transparent/tiles/grass_main/64_65_80_81_tee_skeleton.svg
+    author: ChillerDragon
+    notes:
+    tags: tile, grass, grass_main, nature, bones
+    sha1: aa366e272542a1d5cfa8cf5735fadecd159e0751
