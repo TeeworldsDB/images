@@ -468,6 +468,16 @@
     notes:
     tags: tile, grass, grass_main, nature, bones
     sha1: ac75a437f6e7873db3c2b1fcbf58ed552a9054d2
+- transparent/tiles/grass_main/72_inverted_cave_corner_top_left.svg
+    author:
+    notes:
+    tags:
+    sha1: f89141a51a130a0f50abbc5655c6978cf5252473
+- transparent/tiles/grass_main/88_inverted_cave_left.svg
+    author:
+    notes:
+    tags:
+    sha1: 6e48505a5475a1242f81065ac20dba165a52f27c
 - transparent/tiles/grass_main/8_cave_corner_top_left.svg
     author: ChillerDragon
     notes:
