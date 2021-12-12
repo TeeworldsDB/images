@@ -343,6 +343,11 @@
     notes:
     tags: vanilla, standard skins
     sha1: c9c7dfe9840a7cdda1cf1d83f8272bd9b4ef86c3
+- transparent/tiles/grass_main/11_inner_cave_corner_bottom_right.svg
+    author:
+    notes:
+    tags:
+    sha1: cf84b0256da1dad6a658cb99cdac2350b893dbac
 - transparent/tiles/grass_main/16_grass_top.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
@@ -368,6 +373,11 @@
     notes:
     tags:
     sha1: 34f6225af0e88b9f160d57cfb40f128ee021b535
+- transparent/tiles/grass_main/29_bone_cave.svg
+    author:
+    notes:
+    tags:
+    sha1: 7488ba3e4bf9beba556df9b68dc19f1af335cc59
 - transparent/tiles/grass_main/2_dirt_bone_top.svg
     author: ChillerDragon
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
@@ -393,6 +403,26 @@
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
     tags: tile, grass, grass_main
     sha1: c836ab35c151ef40255aa9e20b1375ede4fefd16
+- transparent/tiles/grass_main/42_bone_cave.svg
+    author:
+    notes:
+    tags:
+    sha1: 18d40a2eba3eb5807c657b29543f04415e11e98a
+- transparent/tiles/grass_main/43_bone_cave.svg
+    author:
+    notes:
+    tags:
+    sha1: 9a9dc2e0c0a14f0faef956f59dc4e95d6ae8d284
+- transparent/tiles/grass_main/44_bone_cave.svg
+    author:
+    notes:
+    tags:
+    sha1: 07ca228eb03cfb893860ef2c87352432c9bbfeb3
+- transparent/tiles/grass_main/45_bone_cave.svg
+    author:
+    notes:
+    tags:
+    sha1: 47e7f1e64e6ec21c8439c7b97137d7c5dafab524
 - transparent/tiles/grass_main/48_grass_inner_corner_top_left.svg
     author: ChillerDragon
     notes:
