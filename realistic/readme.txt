@@ -382,12 +382,12 @@
     author: ChillerDragon
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
     tags: tile, grass, grass_main
-    sha1: 9ce2e030696228cd747bc00cb5e561c0121e7b25
+    sha1: d33b911cd08661d58e45d86c13cdca8ae427e258
 - transparent/tiles/grass_main/32_grass_corner_left_top.svg
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main
-    sha1: 435f45891c76659b3e880263a7f9151b3a7b7952
+    sha1: eced78a7118dd0bad81abca3a9e6d8b5d3886e61
 - transparent/tiles/grass_main/36_dirt_corner_left.svg
     author: ChillerDragon
     notes:
@@ -402,7 +402,7 @@
     author: ChillerDragon
     notes: bone: #d5c9b6ff bone border: #c2c2c2ff
     tags: tile, grass, grass_main
-    sha1: c836ab35c151ef40255aa9e20b1375ede4fefd16
+    sha1: 3e13872cfd75481a6b0dc1d819674752faab7f93
 - transparent/tiles/grass_main/42_bone_cave.svg
     author:
     notes:
@@ -432,7 +432,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main
-    sha1: 6fdfaeac790f588a17d95181414a980776106503
+    sha1: 6428da16502103495a94e2f607c66009b230fa09
 - transparent/tiles/grass_main/52_dirt_border_bottom.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032

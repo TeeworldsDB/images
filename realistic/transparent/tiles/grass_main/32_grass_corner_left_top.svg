@@ -52,6 +52,14 @@
          stdDeviation="2.4820556"
          id="feGaussianBlur7204" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath927">
+      <path
+         style="fill:#b3b3b3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 64,192 H 0 v -64 h 64 z"
+         id="path929" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -61,8 +69,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="-9.5459411"
-     inkscape:cy="55.50788"
+     inkscape:cx="53.651725"
+     inkscape:cy="47.552929"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -114,15 +122,16 @@
       </g>
     </g>
     <g
-       id="g7676">
+       id="g966">
       <path
-         style="fill:#a16e36;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-         d="M 64,192 H 13.927444 L 20.235504,157.9216 64,138.71999 Z"
+         style="fill:#a16e36;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 64,192 H 13.92744 L 20.2355,157.9216 64,138.71999 Z"
          id="path7269" />
       <path
          style="mix-blend-mode:normal;fill:#835a26;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter7202)"
          d="m 22.404367,200.44233 c 0,0 10.725578,1.43934 10.679851,1.24409 -0.04573,-0.19526 3.81274,-6.85651 3.81274,-6.85651 l -4.818459,-4.64141 9.021114,-6.99137 -3.855715,-5.11102 4.271707,-0.7214 -0.0093,-5.07627 10.264043,0.24357 4.28513,-8.65433 11.815079,4.02325 2.424033,-11.90205 c 0,0 -22.693481,-5.26198 -22.896336,-5.21595 -0.202855,0.046 -24.290718,13.16615 -24.290718,13.16615 z"
-         id="path6842" />
+         id="path6842"
+         clip-path="url(#clipPath927)" />
       <g
          id="g6777">
         <path
