@@ -427,7 +427,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main, nature, bones
-    sha1: 256cc485ef659a3efa95c141a7ae5f7720779461
+    sha1: 5965564e1377c66e322e9d1f76887ee319e13270
 - transparent/tiles/grass_main/67_bone.svg
     author: ChillerDragon
     notes:
