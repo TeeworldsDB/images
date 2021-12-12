@@ -437,7 +437,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main, nature, bones
-    sha1: 4716bc21673bb9cf881edfb6a42c2072c5003be6
+    sha1: ac75a437f6e7873db3c2b1fcbf58ed552a9054d2
 - transparent/tiles/grass_main/8_cave_corner_top_left.svg
     author: ChillerDragon
     notes:
