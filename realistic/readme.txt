@@ -432,7 +432,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main
-    sha1: 6428da16502103495a94e2f607c66009b230fa09
+    sha1: a5b60563e56d11e7f288c1fdb2cc0751ec820c8a
 - transparent/tiles/grass_main/52_dirt_border_bottom.svg
     author: ChillerDragon
     notes: dirt: #a16e36ff grass: #8cdb26ff grass border: #324f21ff shadow: #00000032
@@ -447,7 +447,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main, green, nature
-    sha1: 21211849622e180edcbcd07f15e7d1c063add4b3
+    sha1: 5e8a8f0ac2c35c0681e4e30d49c82ee746f7a691
 - transparent/tiles/grass_main/64_65_80_81_tee_skeleton.svg
     author: ChillerDragon
     notes:
