@@ -387,7 +387,7 @@
     author: ChillerDragon
     notes:
     tags: tile, grass, grass_main
-    sha1: eced78a7118dd0bad81abca3a9e6d8b5d3886e61
+    sha1: 877c45793eb94332c58d1e0eaf6c0f782e6349a9
 - transparent/tiles/grass_main/36_dirt_corner_left.svg
     author: ChillerDragon
     notes:
