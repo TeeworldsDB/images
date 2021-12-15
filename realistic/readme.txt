@@ -352,7 +352,7 @@
     author: ChillerDragon
     notes: dirt: #a16e36ff dark dirt: #835a26fb
     tags: tile, grass, grass_main, nature, cave
-    sha1: 4b910f537eb030853a338ce5091f0ce06a73a9ea
+    sha1: d02cd48e5f68abf242dd8675fb102594a2ae4294
 - transparent/tiles/grass_main/1_dirt.svg
     author: ChillerDragon
     notes: color: #a16e36ff
