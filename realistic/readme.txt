@@ -412,7 +412,7 @@
     author:
     notes:
     tags:
-    sha1: 9a9dc2e0c0a14f0faef956f59dc4e95d6ae8d284
+    sha1: 8d7d7ee0dd357cacfb7b0ae62202fe1228ca3099
 - transparent/tiles/grass_main/44_bone_cave.svg
     author:
     notes:
