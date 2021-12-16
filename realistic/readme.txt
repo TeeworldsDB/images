@@ -288,6 +288,11 @@
     notes:
     tags: doodads, jungle, vine, vines
     sha1: b7d4c0903f007ed5b12c98d49889d44ca7b8ea09
+- transparent/game/laser.svg
+    author: ChillerDragon
+    notes:
+    tags: weapons, rifle, laser, sniper
+    sha1: 4bb1dae26e67139cc90157199937d4544753dd9b
 - transparent/logos/teeworldsdb.svg
     author: Blade
     notes:
