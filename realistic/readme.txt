@@ -293,6 +293,11 @@
     notes:
     tags: weapons, rifle, laser, sniper
     sha1: 4bb1dae26e67139cc90157199937d4544753dd9b
+- transparent/game/shotgun.svg
+    author: ChillerDragon
+    notes:
+    tags: weapons, shotgun
+    sha1: ff8e799e5a999631d5439f53d11b4184c481d68a
 - transparent/logos/teeworldsdb.svg
     author: Blade
     notes:
