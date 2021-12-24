@@ -293,6 +293,11 @@
     notes:
     tags:
     sha1: 4f6ec7515d39d5a2fba79d7bb19e65b4a10cd7cc
+- transparent/game/katana.svg
+    author:
+    notes:
+    tags:
+    sha1: 89d3fb8d5f441f5d1e133992166fd66133e8a130
 - transparent/game/laser.svg
     author: ChillerDragon
     notes:
