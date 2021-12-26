@@ -289,14 +289,19 @@
     tags: doodads, jungle, vine, vines
     sha1: b7d4c0903f007ed5b12c98d49889d44ca7b8ea09
 - transparent/game/grenade.svg
-    author:
+    author: ChillerDragon
     notes:
-    tags:
+    tags: weapons, grenade launcher, rocket
     sha1: 4f6ec7515d39d5a2fba79d7bb19e65b4a10cd7cc
-- transparent/game/katana.svg
-    author:
+- transparent/game/gun.svg
+    author: ChillerDragon
     notes:
-    tags:
+    tags: weapons
+    sha1: c39db62b2f3c3c404666bb0805c2ff6a43e672f9
+- transparent/game/katana.svg
+    author: ChillerDragon
+    notes:
+    tags: weapons, ninja, sword
     sha1: 89d3fb8d5f441f5d1e133992166fd66133e8a130
 - transparent/game/laser.svg
     author: ChillerDragon
