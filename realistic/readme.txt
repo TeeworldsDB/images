@@ -303,6 +303,11 @@
     notes:
     tags:
     sha1: 62dc7362f255601344428118ee3b93a24eea6070
+- transparent/game/hook.svg
+    author:
+    notes:
+    tags:
+    sha1: b8c50687ef74985a52d66daa48f63fd40c371e60
 - transparent/game/katana.svg
     author: ChillerDragon
     notes:
