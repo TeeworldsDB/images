@@ -298,6 +298,11 @@
     notes:
     tags: weapons
     sha1: c39db62b2f3c3c404666bb0805c2ff6a43e672f9
+- transparent/game/hammer.svg
+    author:
+    notes:
+    tags:
+    sha1: 62dc7362f255601344428118ee3b93a24eea6070
 - transparent/game/katana.svg
     author: ChillerDragon
     notes:
