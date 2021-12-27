@@ -288,6 +288,16 @@
     notes:
     tags: doodads, jungle, vine, vines
     sha1: b7d4c0903f007ed5b12c98d49889d44ca7b8ea09
+- transparent/game/flag_blue.svg
+    author:
+    notes:
+    tags:
+    sha1: 1747137cc800bfcc5dcaa05c5f4a11e85157c264
+- transparent/game/flag_red.svg
+    author:
+    notes:
+    tags:
+    sha1: fe7baad226cdbfcf023abbb0c55bcee2710060fd
 - transparent/game/grenade.svg
     author: ChillerDragon
     notes:
