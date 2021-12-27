@@ -313,6 +313,21 @@
     notes:
     tags:
     sha1: 62dc7362f255601344428118ee3b93a24eea6070
+- transparent/game/hearth_empty_hud.svg
+    author:
+    notes:
+    tags:
+    sha1: 6795d5a178bc6b1b791af4eb643c0ea7c8c899e2
+- transparent/game/hearth_entity.svg
+    author:
+    notes:
+    tags:
+    sha1: 768d4aad6dff030c98713f351e78025a2a20d8bb
+- transparent/game/hearth_hud.svg
+    author:
+    notes:
+    tags:
+    sha1: 285d0166915312dbd7e399193afff269da96fb01
 - transparent/game/hook.svg
     author:
     notes:
