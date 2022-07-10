@@ -353,6 +353,11 @@
     notes:
     tags:
     sha1: 01fcb55471633b9faab6f2b529b79b80bc54fe68
+- transparent/misc/laser_ray.svg
+    author: ChillerDragon
+    notes:
+    tags: laser, rifle, projectile, bullet, entitiy, particle
+    sha1: 3e1d3048df345ead52a88f371598064aa61526dd
 - transparent/tees/bluestripe.svg
     author: ChillerDragon
     notes:
