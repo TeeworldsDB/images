@@ -358,6 +358,11 @@
     notes:
     tags: laser, rifle, projectile, bullet, entitiy, particle
     sha1: 3e1d3048df345ead52a88f371598064aa61526dd
+- transparent/quads/bg_cloud1.svg
+    author: ChillerDragon
+    notes:
+    tags: nature, clouds, sky, weather
+    sha1: 8ee8543375207bf172f7d65c00e096d73587ff94
 - transparent/quads/bg_cloud2.svg
     author: ChillerDragon
     notes:
