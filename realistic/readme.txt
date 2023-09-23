@@ -423,6 +423,11 @@
     notes:
     tags: vanilla, standard skins
     sha1: c9c7dfe9840a7cdda1cf1d83f8272bd9b4ef86c3
+- transparent/tiles/generic_unhookable/16_silver.svg
+    author:
+    notes:
+    tags:
+    sha1: 2e1a3f1225834cca74a3d11cb4795ef926c162ca
 - transparent/tiles/generic_unhookable/1_silver.svg
     author:
     notes:
