@@ -317,7 +317,7 @@
     author:
     notes:
     tags:
-    sha1: 6795d5a178bc6b1b791af4eb643c0ea7c8c899e2
+    sha1: fb4b0e655a53cf25581f3c9cd80cdc17d9a39e50
 - transparent/game/hearth_entity.svg
     author:
     notes:
