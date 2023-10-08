@@ -448,6 +448,11 @@
     notes:
     tags:
     sha1: 0d16beed87068d08d9d597d9b6fa2c9c5ad48926
+- transparent/tiles/generic_unhookable/3_4_19_20_silver.svg
+    author:
+    notes:
+    tags:
+    sha1: 5532d80457ec7d8cbad2ddd271d2ee0bb9b9b183
 - transparent/tiles/grass_main/11_inner_cave_corner_bottom_right.svg
     author:
     notes:
