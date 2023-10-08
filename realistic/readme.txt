@@ -473,6 +473,16 @@
     notes:
     tags:
     sha1: 8463a593406af9dcb0648795991ec06bbaab1392
+- transparent/tiles/generic_unhookable/70_silver.svg
+    author:
+    notes:
+    tags:
+    sha1: 0006dcef2142cbb59be1e430a04230d3386e5042
+- transparent/tiles/generic_unhookable/86_silver.svg
+    author:
+    notes:
+    tags:
+    sha1: 69155c14b6be6c11aedb83f0c91dcc3128c9d516
 - transparent/tiles/grass_main/11_inner_cave_corner_bottom_right.svg
     author:
     notes:
