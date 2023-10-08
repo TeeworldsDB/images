@@ -458,6 +458,11 @@
     notes:
     tags:
     sha1: 5532d80457ec7d8cbad2ddd271d2ee0bb9b9b183
+- transparent/tiles/generic_unhookable/34_silver.svg
+    author:
+    notes:
+    tags:
+    sha1: af7934ea26ef2bd911ce22fb8a0e9c8e680a9fa0
 - transparent/tiles/generic_unhookable/5_6_21_22_silver.svg
     author:
     notes:
