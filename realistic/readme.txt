@@ -443,6 +443,11 @@
     notes:
     tags:
     sha1: bfb729fa28a4503d0cf8cd474a5f075fb6d8769b
+- transparent/tiles/generic_unhookable/208_209_210_224_225_226_240_241_242_bronze.svg
+    author:
+    notes:
+    tags:
+    sha1: 12c6def3ca90f750befa3e25adfcf1645b2e0ce1
 - transparent/tiles/generic_unhookable/2_silver.svg
     author:
     notes:
@@ -513,6 +518,11 @@
     notes:
     tags:
     sha1: 69155c14b6be6c11aedb83f0c91dcc3128c9d516
+- transparent/tiles/generic_unhookable/87_88_89_103_104_105_119_120_121_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 0c0430933b1ebc758253570c668da62dc7976739
 - transparent/tiles/generic_unhookable/99_100_101_115_116_117_silver.svg
     author:
     notes:
