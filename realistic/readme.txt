@@ -423,6 +423,21 @@
     notes:
     tags: vanilla, standard skins
     sha1: c9c7dfe9840a7cdda1cf1d83f8272bd9b4ef86c3
+- transparent/tiles/generic_unhookable/10_11_26_27_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 241121ae26f7b493e3ef815cd021e94214182314
+- transparent/tiles/generic_unhookable/106_107_108_122_123_125_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: e865eaced7b256aecc7847144c56e3e324db3de4
+- transparent/tiles/generic_unhookable/12_13_28_29_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 1151e429fe827fa5b2fca94ec3a467e23a1c2117
 - transparent/tiles/generic_unhookable/16_silver.svg
     author:
     notes:
@@ -448,6 +463,21 @@
     notes:
     tags:
     sha1: 12c6def3ca90f750befa3e25adfcf1645b2e0ce1
+- transparent/tiles/generic_unhookable/23_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: d610b03a29b39e6e30d0b97229d9ea1c4b744e19
+- transparent/tiles/generic_unhookable/24_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 53f3b095ede4054b643612894835e1c9f99ea753
+- transparent/tiles/generic_unhookable/25_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: de8f4ca3cb7cc61a4d64ff8eb73148cf7888c099
 - transparent/tiles/generic_unhookable/2_silver.svg
     author:
     notes:
@@ -483,6 +513,31 @@
     notes:
     tags:
     sha1: 8867b01347ab12641f2246be2bacbaf41155c237
+- transparent/tiles/generic_unhookable/39_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 1a1323a423eb82522203b0c526d21ef9f12ac5a9
+- transparent/tiles/generic_unhookable/40_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 47718c768d0ade3f9531484bf7951355586ad60c
+- transparent/tiles/generic_unhookable/41_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 278a98d6d2cf94323e084a9a8e0badd597379f28
+- transparent/tiles/generic_unhookable/42_43_44_57_58_59_60_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 878f27ebf827d601c3ca044044da1be3425fa149
+- transparent/tiles/generic_unhookable/45_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 1fbe111aa9738ea4e6f84ffaefd4ecb7273c8bb4
 - transparent/tiles/generic_unhookable/48_49_64_65_66_silver.svg
     author:
     notes:
@@ -493,11 +548,21 @@
     notes:
     tags:
     sha1: f2ce19f17ecfab1fe670ee4b64cbe27d0d4050f2
+- transparent/tiles/generic_unhookable/55_56_71_72_73_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 11e8b180d655dcc4d1eb5b1fade89d2ec6249e14
 - transparent/tiles/generic_unhookable/5_6_21_22_silver.svg
     author:
     notes:
     tags:
     sha1: 8463a593406af9dcb0648795991ec06bbaab1392
+- transparent/tiles/generic_unhookable/61_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 2b83a6cd2c72b2ad523cb2dca699285d7c3e5467
 - transparent/tiles/generic_unhookable/67_68_69_83_84_85_silver.svg
     author:
     notes:
@@ -508,6 +573,16 @@
     notes:
     tags:
     sha1: 0006dcef2142cbb59be1e430a04230d3386e5042
+- transparent/tiles/generic_unhookable/74_75_76_90_91_92_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 37ed3e6deeebc7e22413568306a2c65e8fb728ff
+- transparent/tiles/generic_unhookable/77_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: faa490caf21dd4c230acc5f3d850bc6c6b6f18ab
 - transparent/tiles/generic_unhookable/80_81_82_96_97_98_112_113_114_silver.svg
     author:
     notes:
@@ -523,11 +598,26 @@
     notes:
     tags:
     sha1: 0c0430933b1ebc758253570c668da62dc7976739
+- transparent/tiles/generic_unhookable/8_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 0cbadcdba99ca390a8b6bbc6f6dd78c4afcc919e
+- transparent/tiles/generic_unhookable/93_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 7d301ad988429cfdb06f3f69c6abecfe9839a52e
 - transparent/tiles/generic_unhookable/99_100_101_115_116_117_silver.svg
     author:
     notes:
     tags:
     sha1: 41484e1191fb3f20771c9ba2e2271cf98bbf2860
+- transparent/tiles/generic_unhookable/9_gold.svg
+    author:
+    notes:
+    tags:
+    sha1: 89055f9b29d4c73e2f1e2725b06f2f143c3feacb
 - transparent/tiles/grass_main/11_inner_cave_corner_bottom_right.svg
     author:
     notes:
