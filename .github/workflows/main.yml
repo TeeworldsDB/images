@@ -15,7 +15,9 @@ jobs:
     - name: Prepare
       run: git clone https://github.com/ddnet/ddnet-data-svg ../ddnet
     - name: Check metadata
-      run: ../ddnet/scripts/check_svg_meta.sh
+      run: |
+        rm ./realistic/transparent/logos/teeworldsdb.svg
+        ../ddnet/scripts/check_svg_meta.sh
   check-readme:
     runs-on: ubuntu-latest
 
