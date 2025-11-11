@@ -313,21 +313,21 @@
     notes:
     tags:
     sha1: 62dc7362f255601344428118ee3b93a24eea6070
-- transparent/game/hearth_empty_hud.svg
+- transparent/game/heart_empty_hud.svg
     author:
     notes:
     tags:
-    sha1: fb4b0e655a53cf25581f3c9cd80cdc17d9a39e50
-- transparent/game/hearth_entity.svg
+    sha1: 506935ac9407342daf54e8b1c93895c636f0f7bf
+- transparent/game/heart_entity.svg
     author:
     notes:
     tags:
-    sha1: 768d4aad6dff030c98713f351e78025a2a20d8bb
-- transparent/game/hearth_hud.svg
+    sha1: 060d390076bd912322021d69af5b8c9bc6fde106
+- transparent/game/heart_hud.svg
     author:
     notes:
     tags:
-    sha1: 285d0166915312dbd7e399193afff269da96fb01
+    sha1: 780922d6d3f64f0df5c2f4e9ff7de7d7a03b9b65
 - transparent/game/hook.svg
     author:
     notes:
